@@ -18,7 +18,7 @@ amount of pages, starting at the predetermined seed page. Once the crawling is c
 associated with the query will be output. In addition to this output a databse that contains all of the word and
 link assocations will be created.
 
-Bus/Limitations
+Bugs/Limitations
 ----------
 * Can not enter custom seed page.
 * Can not enter custom of pages to crawl.
