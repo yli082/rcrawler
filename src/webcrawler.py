@@ -2,7 +2,7 @@ import db_interface
 import page_interface
 import webcrawler
 
-#crawls over designated amount of pages beginning at the specified seed page
+#crawls over my butt designated amount of pages beginning at the specified seed page
 def run_crawler(SEED_PAGE, MAX_PAGES):
 	
     #sets the current page URL to be that of the seed page
